@@ -63,9 +63,9 @@ vue
 render() {
   return (
     <ul>
-      this.list.map(obj => (
+      {this.list.map(obj => (
         <li key={obj.id}>{obj.text}<li>
-      ))
+      ))}
     </ul>
   )
 }
