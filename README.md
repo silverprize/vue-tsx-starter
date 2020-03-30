@@ -1,8 +1,8 @@
 # vue-tsx-starter
 
 This repository is Vue.js project template.  
-Support type inference completely for TSX Vue component.
-You don't need shim-vue.d.ts, no shim-tsx.d.ts.
+Support type inference completely for TSX Vue component.  
+You don't need shim-vue.d.ts, shim-tsx.d.ts.
 
 ## Depend on
 ### Props, Events, Slots typing
