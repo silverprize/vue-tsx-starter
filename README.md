@@ -94,7 +94,7 @@ vue
 tsx
 ```tsx
 render() {
-  return <input {...this.$attrs} />
+  return <input attrs={this.$attrs} />
 }
 ```
 

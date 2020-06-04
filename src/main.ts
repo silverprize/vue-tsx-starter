@@ -1,4 +1,3 @@
-import "vue-tsx-support/enable-check";
 import Vue from "vue";
 import App from "./App";
 import router from "./router";
